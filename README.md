@@ -1,5 +1,7 @@
 # MiniTube
 
+Mini Youtube example using Webpack and ES6 w/ React.
+
 ## Setup
 
 ```
